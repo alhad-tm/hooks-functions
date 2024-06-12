@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: aqua;
+}
+.newcontainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    background-color: cadetblue;
+
+}
